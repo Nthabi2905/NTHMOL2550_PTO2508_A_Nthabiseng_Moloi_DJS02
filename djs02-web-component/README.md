@@ -1,4 +1,4 @@
-# DJS02 – Web Component: Podcast Preview
+## DJS02 – Web Component: Podcast Preview
 
 This project uses a reusable native Web Component called `<podcast-preview>` to display podcast cards. The component uses `customElements.define()`, Shadow DOM, and custom events.
 
